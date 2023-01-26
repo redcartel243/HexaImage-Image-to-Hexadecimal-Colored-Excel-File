@@ -22,6 +22,9 @@ Note that this script will only run on .jpg, .jpeg, .png and .bmp files.
 
 **Hexadecimal State(See NoColor0.xlsx)**
 
+<img src='https://github.com/redcartel243/HexaImage-Image-to-Hexadecimal-Colored-Excel-File/blob/main/Picture1.png'/>
+
 
 **Colored State(see Color0.xlsx)**
 
+<img src='https://github.com/redcartel243/HexaImage-Image-to-Hexadecimal-Colored-Excel-File/blob/main/Picture2.png'/>
