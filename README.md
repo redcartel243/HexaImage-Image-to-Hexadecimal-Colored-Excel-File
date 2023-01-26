@@ -14,12 +14,14 @@ To run the script, you will need to have Python, openpyxl, and PIL library insta
 
 Note that this script will only run on .jpg, .jpeg, .png and .bmp files.
 
-**Results**
+## **Results**
 
 **Image before conversion**
+<img src='https://github.com/redcartel243/HexaImage-Image-to-Hexadecimal-Colored-Excel-File/blob/main/Arch2O-record-breaker-shanghai-tower-the-worlds-second-tallest-building-completed-in-shanghai.jpg'/>
 
 
 **Hexadecimal State(See NoColor0.xlsx)**
+
 
 **Colored State(see Color0.xlsx)**
 
